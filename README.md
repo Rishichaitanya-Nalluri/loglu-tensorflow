@@ -35,4 +35,3 @@ model.summary()
 ## License
 
 LogLU-TensorFlow is released under the [Apache License 2.0](https://github.com/Rishichaitanya-Nalluri/loglu-tensorflow/blob/main/LICENSE).
-# loglu-tensorflow
